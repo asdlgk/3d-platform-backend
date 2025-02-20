@@ -1,0 +1,7 @@
+flask==2.0.3
+redis==4.3.4
+oss2==2.15.0
+paramiko==2.11.0
+sshtunnel==0.4.0
+requests==2.27.1
+python-dotenv==0.19.2
